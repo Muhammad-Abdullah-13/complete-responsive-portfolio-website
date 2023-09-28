@@ -1,0 +1,69 @@
+.dark-mode {
+    background-color: #111;
+    color: #ffffff;
+  }
+  
+  .dark-mode {
+    background-color: #111;
+    color: #ffffff;
+  }
+  .dark-mode .home .content h3 {
+    color: #ffffffbb;
+  }
+  .dark-mode .home .content .info{
+    color: #ffffffbb;
+  }
+  .dark-mode .about .row-1 .content h3{
+    color: #ffffffbb;
+  }
+  .dark-mode .about .row-1 .content p{
+    color: #ffffffbb;
+  }
+  .dark-mode .about .row-2 .skills .progress h3{
+    color: #ffffffbb;
+  }
+ .dark-mode .about .row-2 .box-container .box {
+    background-color: #3f3b3b79;
+  }
+  .dark-mode .about .row-2 .box-container .box p{
+    color: #ffffffbb;
+  }
+  .dark-mode .service .box-container .box{
+    background: #2c2a2acb;
+  }
+  .dark-mode .service .box-container .box h3{
+    color: #ffffffde;
+  }
+  .dark-mode .service .box-container .box p{
+    color: #ffffffbb;
+  }
+  .dark-mode .experience .box-container .box .content span{
+    background: #d87709e3;
+  }
+  .dark-mode .experience .box-container .box .content h3{
+    color: #ffffffdc;
+  }
+  .dark-mode .experience .box-container .box .content p{
+    color: #ffffffd8;
+  }
+  .dark-mode .experience .box-container .box .content{
+    background: #2c2a2acb;
+  }
+  .dark-mode .experience .heading h1{
+    color: #ffffffde;
+  }
+  .dark-mode .heading{
+    color: #ffffffdc;
+  }
+  .dark-mode .contact .icons-container .icons{
+    background: #2c2a2acb;
+  }
+  .dark-mode .contact .icons-container .icons h3{
+    color: #ffffffe0;
+  }
+  .dark-mode .contact .row form{
+    background: #2c2a2acb;
+  }
+  .dark-mode .footer{
+    background: #2c2a2acb;
+  }
